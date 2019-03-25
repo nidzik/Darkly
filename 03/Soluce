@@ -1,0 +1,26 @@
+file upload : 
+
+content-type header validation : 
+
+
+-----------------------------114263174114554193821375375918
+
+Content-Disposition: form-data; name="MAX_FILE_SIZE"
+
+
+
+100000
+
+-----------------------------114263174114554193821375375918
+
+Content-Disposition: form-data; name="uploaded"; filename="dirsearch.py"
+
+		 ________ change this to image/jpg
+		V
+Content-Type: text/x-python
+
+
+
+
+
+
